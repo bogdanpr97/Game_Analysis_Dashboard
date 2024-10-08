@@ -1,6 +1,6 @@
 # Project: Video Game Sales & Player Ratings Dashboard
 
-## Project Overview
+## :memo: Project Overview
 
 This project focuses on building a dynamic and interactive Power BI dashboard to analyze video game sales performance, player engagement metrics, and genre trends. The objective is to provide insights for game developers, publishers, and retailers to understand market performance, player behavior, and game preferences across different platforms and regions.
 
